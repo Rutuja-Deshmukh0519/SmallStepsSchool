@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@500&display=swap');
+
+.app-header {
+    display: flex;
+    background-image: linear-gradient(
+        to bottom,
+        #fffe00, 
+        #fefe32, 
+        #fdfe4a, 
+        #fdfe5d, 
+        #fcfe6e, 
+        #fff682, 
+        #ffef96, 
+        #ffe9aa, 
+        #ffe4c9, 
+        #ffeaed, 
+        #fff5ff, 
+        #ffffff
+    );
+}
+
+.style-school-name {
+    color: #114E60 ;
+    padding-top: 10px;
+    padding-bottom: 65px;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family: 'Kiwi Maru', serif;
+    font-weight: 600;
+    font-size: 3.5rem;
+    height: 150px;
+}
+
+.logo-styling {
+    padding-left: 50px;
+    padding-right: 330px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin: 0;
+    width: 160px;
+    height: 160px;
+}
+
+.name-styling {
+    max-width: 35%;
+}
