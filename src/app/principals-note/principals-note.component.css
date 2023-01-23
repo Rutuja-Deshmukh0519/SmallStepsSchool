@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quintessential&display=swap');
 
 * {
     font-family: 'Quintessential', cursive;
@@ -43,4 +43,23 @@
     position: absolute;
     left: 290px;
     top: 1110px;
+}
+
+
+/* .container {
+    background-color: #182747;
+    border-color: #182747;
+    border-style: solid;
+    height: 500px;  
+}
+
+.container-left {
+    width: 50%;
+    height: 300px;
+}
+
+.container-right {
+    width: 50%;
 } */
+
+
