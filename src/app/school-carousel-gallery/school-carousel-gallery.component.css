@@ -17,7 +17,8 @@
 .container {
     position: relative;
     text-align: center;
-    color: #A3E4DB; 
+    /* color: #A3E4DB;  */
+    color: #FFFBAC;
 }
 
 .heading {

@@ -1,11 +1,46 @@
-.photo {
-    width: 50%;
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quintessential&display=swap');
+
+* {
+    font-family: 'Quintessential', cursive;
+}
+
+.container-outer {
+    background-color: #182747;
+    border-color: #182747;
+    border-style: solid;
+    height: 500px;
+}
+
+.container-inner {
     display: flex;
-    float: left;
+    width: 50%;
+}
+
+.name-style {
+    color: #FFFBAC;
+    position: absolute;
+    left: 245px;
+    top: 1340px;
+}
+
+.photo {
+    display: flex;
+    position: absolute;
+    left: 290px;
+    top: 1110px;
+    height: 200px;
 }
 
 .note {
     width: 50%;
-    display: flex;
+    display: inline-flex;
     float: right;
+    color: white;
 }
+
+.style-note {
+    color: white;
+    position: absolute;
+    left: 290px;
+    top: 1110px;
+} */
