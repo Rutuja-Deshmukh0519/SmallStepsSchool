@@ -1,65 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Edu+VIC+WA+NT+Beginner&family=Klee+One&display=swap');
 
-* {
-    font-family: 'Quintessential', cursive;
-}
-
-.container-outer {
+.container { 
     background-color: #182747;
-    border-color: #182747;
-    border-style: solid;
-    height: 500px;
-}
-
-.container-inner {
+    color: white;
     display: flex;
-    width: 50%;
+    height: 400px;
+    margin: 0;
 }
 
-.name-style {
+.container-left {  
+    float: left; 
+    width: 40%;
+}
+
+.img-style {
+    position: absolute;
+    height: 180px;
+    left: 260px;
+    top: 1070px;
+}
+
+.img-label {
+    /* font-family: 'Klee One', cursive; */
+    font-family: 'Montserrat', sans-serif;
     color: #FFFBAC;
     position: absolute;
-    left: 245px;
-    top: 1340px;
-}
-
-.photo {
-    display: flex;
-    position: absolute;
-    left: 290px;
-    top: 1110px;
-    height: 200px;
+    left: 185px;
+    top: 1270px;
+    text-align: center;
 }
 
 .note {
-    width: 50%;
-    display: inline-flex;
-    float: right;
-    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F49D1A;
+    color: #182747;
+    height: 200px;
+    margin-left: 70px;
+    margin-right: 120px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding: 30px;
+    text-align: justify;
+    align-content: center;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px 0 rgba(24, 39, 71, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8);
 }
 
-.style-note {
-    color: white;
-    position: absolute;
-    left: 290px;
-    top: 1110px;
-}
 
-
-/* .container {
-    background-color: #182747;
-    border-color: #182747;
-    border-style: solid;
-    height: 500px;  
-}
-
-.container-left {
-    width: 50%;
-    height: 300px;
-}
-
-.container-right {
-    width: 50%;
-} */
 
 
